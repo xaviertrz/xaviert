@@ -23,7 +23,7 @@ export default function ExperiencePage() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Here's a overview of the diverse experiences and achievements I've
+          Here is a overview of the diverse experiences and achievements I have
           garnered over the course of my career so far.
         </p>
         {Object.entries(experience).map(

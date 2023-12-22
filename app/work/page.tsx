@@ -40,7 +40,7 @@ export default function WorkPage() {
       <div>
         <p className="prose prose-neutral dark:prose-invert">
           Visual appeal + problem-solving = success. Check out some of the
-          projects I've worked on.
+          projects I have worked on.
         </p>
 
         <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
