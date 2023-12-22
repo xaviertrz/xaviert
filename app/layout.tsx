@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     description: "Full Stack Developer.",
     url: "https://xaviert.me",
     siteName: "Xavier Tarazona",
-    locale: "es_ES",
+    locale: "en_US",
     type: "website",
   },
   robots: {
